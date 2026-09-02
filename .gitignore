@@ -1,0 +1,7 @@
+mysql/*
+!mysql/.gitkeep
+
+# Optional common local runtime artifacts
+*.log
+*.pid
+*.sock
